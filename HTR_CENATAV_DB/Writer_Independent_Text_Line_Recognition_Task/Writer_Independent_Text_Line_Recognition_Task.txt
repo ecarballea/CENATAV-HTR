@@ -1,0 +1,5 @@
+***Summary of Writer Independent Text_Line Recognition Task in CENATAV DataBase***
+train_set.txt - Text_Lines: 6302 writers: 133
+test_set.txt  - Text_Lines: 1186 writers: 32
+valid_set.txt - Text_Lines: 834  writers: 22
+Total:        - Text_Lines: 8322 writers: 187
